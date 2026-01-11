@@ -37,4 +37,4 @@ Retail supply chains often rely on static "Holiday" flags. Historical data (2010
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/USERNAME/walmart-supply-chain-optimization.git](https://github.com/USERNAME/walmart-supply-chain-optimization.git)
+   git clone [https://github.com/ryanroshandy55/Walmart-Supply-Chain-Optimization.git](https://github.com/ryanroshandy55/Walmart-Supply-Chain-Optimization.git)
